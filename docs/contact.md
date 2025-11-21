@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-TODO!
+You can reach me at: nams [at] hawaii [dot] edu

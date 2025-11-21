@@ -27,6 +27,7 @@ url: "https://sujungnam.com" # the base hostname & protocol for your site, e.g. 
 # twitter_username: jekyllrb
 github_username:  thecrystalnam
 header_pages:
+  - index.markdown
   - research.md
   - publications.md
   - teaching.md
