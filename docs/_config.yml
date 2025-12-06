@@ -28,11 +28,8 @@ url: "https://sujungnam.com" # the base hostname & protocol for your site, e.g. 
 github_username:  thecrystalnam
 header_pages:
   - index.markdown
-  - research.md
-  - publications.md
-  - teaching.md
-  - contact.md
   - projects.md
+  - contact.md
 
 # Build settings
 theme: minima
