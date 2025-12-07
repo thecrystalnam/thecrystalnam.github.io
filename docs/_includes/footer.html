@@ -17,7 +17,20 @@
       </div>
 
       <div class="footer-col footer-col-2">
-        {% include social.html %}
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github"></i> <span class="username">GitHub</span>
+            </a>
+          </li>
+          {% endif %}
+          <li>
+            <a href="https://www.linkedin.com/in/sujung-nam-5b1529b4" target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-linkedin"></i> <span class="username">LinkedIn</span>
+            </a>
+          </li>
+        </ul>
       </div>
 
       <div class="footer-col footer-col-3">
