@@ -22,7 +22,7 @@ permalink: /
     </p>
   </div>
   <div style="flex: 1; text-align: center; max-width: 220px;">
-    <img src="assets/img/profile.jpg" alt="Sujung Nam profile photo" style="width: 220px; height: 220px; border-radius: 50%; object-fit: cover; object-position: center 0%;"/>
+    <img src="assets/img/profile.jpg" alt="Sujung Nam profile photo" style="width: 220px; aspect-ratio: 1/1; border-radius: 50%; object-fit: cover; object-position: center 0%;"/>
   </div>
 </div>
 
