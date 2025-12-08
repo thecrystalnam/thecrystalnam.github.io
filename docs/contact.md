@@ -4,4 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
-You can reach me at: nams [at] hawaii [dot] edu
+Sujung Nam  
+PhD Candidate, Korean Linguistics  
+Department of East Asian Languages & Literatures  
+University of Hawaiʻi at Mānoa  
+Email: nams [at] hawaii [dot] edu
