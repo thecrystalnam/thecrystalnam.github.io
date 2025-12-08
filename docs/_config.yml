@@ -21,7 +21,7 @@
 title: Sujung Nam
 email: nams@hawaii.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website of Sujung Nam, a Ph.D. student in Korean Linguistics at the University of Hawaii at Manoa
+  Personal website of Sujung Nam, a Ph.D. student in Korean Linguistics at the University of Hawaiʻi at Mānoa
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sujungnam.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
