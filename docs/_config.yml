@@ -20,10 +20,10 @@ nav:
     url: /
   - title: Research
     url: /research/
-  - title: Projects
-    url: /projects/
   - title: Teaching
     url: /teaching/
+  - title: Projects
+    url: /projects/
   - title: CV
     url: /assets/Sujung_Nam_CV.pdf
   - title: Contact
