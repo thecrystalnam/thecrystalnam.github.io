@@ -24,13 +24,12 @@ h1 { font-size:32px; margin:0 0 14px; } h2 { font-size:22px; margin:34px 0 10px;
 .screenshot { display:block; max-width:100%; height:auto; border:1px solid var(--line); border-radius:6px; margin-top:8px; }
 .site-footer a { color:var(--link); }
 @media (max-width:600px) { .site-nav a { margin:0 16px 8px 0; } .site-header .wrapper { padding-top:10px; } .news li { flex-direction:column; gap:0; } }
-.avail { background:var(--soft); border-left:4px solid var(--link); padding:12px 16px; border-radius:4px; margin:18px 0; }
 .news .d { flex-shrink:0; } .news.wide .d { min-width:104px; }
 .news .sub, .entry .where { color:var(--muted); font-size:15px; }
 .entry { margin:18px 0 10px; } .entry-head { display:flex; justify-content:space-between; align-items:baseline; gap:16px; flex-wrap:wrap; }
 .entry-head h3 { margin:0; } .entry-head .d { font-weight:600; color:var(--muted); font-size:15px; } .entry .where { margin:0 0 6px; }
 .courses { list-style:none; padding:0; margin:6px 0 0; } .courses li { display:flex; gap:16px; padding:1px 0; } .entry .intro { margin:0 0 2px; }
 .courses .lvl { flex:0 0 300px; color:var(--muted); font-weight:600; }
-@media (max-width:600px) { .courses li { flex-direction:column; gap:0; } }
+@media (max-width:600px) { .courses li { flex-direction:column; gap:0; padding:3px 0; } .courses .lvl { flex:none; } }
 .card .card-title { font-size:22px; margin:2px 0 8px; }
 .btns.demo { display:flex; align-items:center; gap:4px 6px; flex-wrap:wrap; margin:4px 0 14px; } .btns .note { color:var(--muted); font-size:14px; }
